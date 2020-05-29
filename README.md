@@ -1,2 +1,2 @@
-# Subtract Calculator
+# Calculator
 * homework
