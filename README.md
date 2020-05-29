@@ -1,5 +1,2 @@
-# Typing
-
-* Homework and experiencing
-* Learning
-
+# Subtract Calculator
+* homework
